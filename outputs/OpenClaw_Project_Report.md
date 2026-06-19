@@ -557,7 +557,6 @@ Collected URLs included:
 - ScienceDirect article page.
 - Other search results.
 
-![alt text](image.png)
 
 ## 15. Current Error
 
