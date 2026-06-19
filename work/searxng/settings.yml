@@ -1,0 +1,12 @@
+use_default_settings: true
+
+server:
+  secret_key: "openclaw-local-change-me"
+  limiter: false
+  public_instance: false
+
+search:
+  formats:
+    - html
+    - json
+
